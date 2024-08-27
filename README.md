@@ -4,6 +4,10 @@ This repository provides insights into the agricultural supply chain within Karn
 
 ---
 
+
+https://github.com/user-attachments/assets/4c857aa3-149e-4952-9f33-a8148f62eaec
+
+
 ## Agricultural Supply Chain Strategy Dashboard
 
 ### Introduction:
